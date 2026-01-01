@@ -10,6 +10,14 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  --color-primary: #2ecc71;
+  --color-background-dark: #112116;
+  --color-soft-grey: #f2f2f2;
+  --color-charcoal: #1a1a1a;
+  --color-deep-forest: #0d3323;
+  --color-cool-grey: #899499;
+  --color-paynes-grey: #71797E;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -23,4 +31,17 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+html {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
 }
