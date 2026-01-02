@@ -7,8 +7,8 @@ import LoadingScreen from "@/components/LoadingScreen";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Full Stack Developer Portfolio - Variant A",
-  description: "Senior Full Stack Developer specializing in building exceptional digital experiences.",
+  title: "Moaz Ammar | Full Stack Dev. and Cyber-security Eng. Student Portfolio",
+  description: "Portfolio of Moaz Ammar, a Cyber-security student and Full Stack Developer building exceptional web experiences.",
   verification: {
     google: "j4Pwsc_scIygJwPyAAt3CJKBSG6iUyYFy3lVDV2Oph8",
   },
