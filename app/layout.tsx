@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Full Stack Developer Portfolio - Variant A",
   description: "Senior Full Stack Developer specializing in building exceptional digital experiences.",
   verification: {
-    google: "google9bec847518c37f2d",
+    google: "j4Pwsc_scIygJwPyAAt3CJKBSG6iUyYFy3lVDV2Oph8",
   },
 };
 
